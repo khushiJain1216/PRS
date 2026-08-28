@@ -1,0 +1,6 @@
+{
+  "name": "Crisis Triage AI - Disaster Intelligence & SAR Command",
+  "description": "Real-time AI-powered social media disaster distress triage, GIS tactical rescue map, automated SAR prioritization, and fleet dispatch coordinator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

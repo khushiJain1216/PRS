@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .bg-dot-matrix {
+    background-image: radial-gradient(circle at 2px 2px, #cbd5e1 1px, transparent 0);
+    background-size: 24px 24px;
+  }
+  .bg-dot-matrix-dense {
+    background-image: radial-gradient(circle at 1.5px 1.5px, #e2e8f0 1px, transparent 0);
+    background-size: 16px 16px;
+  }
+}
+
